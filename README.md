@@ -60,7 +60,8 @@ Simulate the Verilog files using any simulator (ModelSim, Vivado, etc.).
 Run the individual testbenches first.
 Finally, run the main_tb.v to test the full processor pipeline.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c67c0e5a-2a17-4cf0-b3f4-56ae2f01029f)
+
 
 
 📈 Applications
